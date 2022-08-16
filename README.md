@@ -36,7 +36,7 @@ CTlab uses two external open source Matlab toolkits. Spektr 3.0 is used to creat
 
 ## Platform Overview
 
-The main “Console window” of the CTlab behaves roughly analogous to a clinical CT scanner for graphically adjusting imaging setup and conducting simulation control, providing immediate feedback to the corresponding information panels during the simulation process, and visualizing reconstructed images in the console image windows.
+The main “Console window” of the CTlab behaves roughly analogous to a clinical CT scanner for graphically adjusting imaging setup and conducting simulation control, providing immediate feedback to the corresponding information panels during the simulation process, and visualizing reconstructed polychromatic and spectral images in the reconstruction windows.
 
 
 ![CT_lab_fig](https://user-images.githubusercontent.com/110446843/183819505-52c6244f-7684-43b9-95d0-7feff60b0779.png)
