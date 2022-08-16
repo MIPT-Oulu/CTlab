@@ -46,4 +46,8 @@ Thank you!
 
 ## Future version
 
-The future version will include a new imaging target and a technical image quality analysis tool.
+The future version will include 
+
+- a new imaging target 
+- a technical image quality analysis tool
+
