@@ -39,7 +39,9 @@ Further documentation and examples will be made available over time.
 
 ## Noteworthy
 
-Since CTlab is being widely distributed for the first time, it may contain unforeseen bugs. If you wish, you can report these to the Issues channel. Thank you!
+Since CTlab is being widely distributed for the first time, it may contain unforeseen bugs. If you wish, you can report these to the Issues channel. 
+
+Thank you!
 
 
 ## Future version
