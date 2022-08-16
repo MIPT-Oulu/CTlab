@@ -3,13 +3,14 @@
 
 # A Numerical Computed Tomography Simulator
 
+## Overview
 The CTlab is virtually implemented medical imaging device, which can be widely used in computed tomography training for all professionals who use radiation in their work. The simulator provides fast, comprehensive, and efficient solutions for numerical CT simulations with low hardware requirements. The simulator has been developed to introduce the basic operations and workflow behind the CT imaging modality and to illustrate how the polychromatic x-ray spectrum, various imaging parameters, scan geometry and CT reconstruction algorithm affect the quality of the detected CT images.
 
 ## Features
 
 The CTlab offers its user the opportunity to create the desired X-ray spectrum, to adjust CT imaging parameters (image volume, scan angles, detector element size and detector width, noise, algorithm/geometry specific parameters), to select specific scan geometry, to observe projection data from selected imaging target with polychromatic x-ray spectrum, and to select the specific algorithm for image reconstruction (FBP, least squares, Tikhonov regularization). 
 
-# Versions
+## Versions
 
 - Windows (version 1.4)
 - Mac (version 1.0)
