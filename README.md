@@ -10,10 +10,10 @@ The CTlab is virtually implemented medical imaging device, which can be widely u
 
 The CTlab offers its user the opportunity 
 
-- [x] to create the desired X-ray spectrum 
-- [x] to adjust CT imaging parameters (image volume, scan angles, detector element size and detector width, noise, algorithm/geometry specific parameters) 
-- [x] to select specific scan geometry, to observe projection data from selected imaging target with polychromatic x-ray spectrum
-- [x] to select the specific algorithm for image reconstruction (FBP, least squares, Tikhonov regularization) 
+- [x] To create the desired X-ray spectrum 
+- [x] To adjust CT imaging parameters (image volume, scan angles, detector element size and detector width, noise, algorithm/geometry specific parameters) 
+- [x] To select specific scan geometry, to observe projection data from selected imaging target with polychromatic x-ray spectrum
+- [x] To select the specific algorithm for image reconstruction (FBP, least squares, Tikhonov regularization) 
 
 ## Versions
 
