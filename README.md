@@ -8,7 +8,7 @@ The CTlab is virtually implemented medical imaging device, which can be widely u
 
 ## Features
 
-The CTlab offers its user the opportunity 
+The CTlab offers its users an opportunity in CT simulations
 
 - [x] To create the desired X-ray spectrum 
 - [x] To adjust CT imaging parameters (image volume, scan angles, detector element size and detector width, noise, algorithm/geometry specific parameters) 
