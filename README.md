@@ -21,7 +21,7 @@ Since the use of Astra toolbox is not possible on Mac computers, a slightly sepa
 
 Key user groups for the simulator include medical physics, engineering, and radiographer students.
 
-# Dependencies
+## Dependencies
 
 - MATLAB R2020b
 - [Astra Toolbox](https://www.astra-toolbox.com/downloads/index.html) (Windows version)
