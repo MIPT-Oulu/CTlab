@@ -3,16 +3,22 @@
 
 # A Numerical Computed Tomography Simulator
 
-The CTlab is virtually implemented medical imaging device. The CTlab simulator can be widely used in computed tomography training for all professionals who use radiation in their work. The simulator provides fast, comprehensive, and efficient solutions for numerical CT simulations with low hardware requirements. The simulator has been developed to introduce the basic operations and workflow behind the CT imaging modality and to illustrate how the polychromatic x-ray spectrum, various imaging parameters, scan geometry and CT reconstruction algorithm affect the quality of the detected CT images.
+The CTlab is virtually implemented medical imaging device, which can be widely used in computed tomography training for all professionals who use radiation in their work. The simulator provides fast, comprehensive, and efficient solutions for numerical CT simulations with low hardware requirements. The simulator has been developed to introduce the basic operations and workflow behind the CT imaging modality and to illustrate how the polychromatic x-ray spectrum, various imaging parameters, scan geometry and CT reconstruction algorithm affect the quality of the detected CT images.
 
-The CTlab has been created with MATLAB's app designer feature. It offers its user the opportunity to adjust CT imaging parameters (image volume, scan angles, detector element size and detector width, noise, algorithm/geometry specific parameters), to select specific scan geometry, to observe projection data from selected imaging target with polychromatic x-ray spectrum, and to select the specific algorithm for image reconstruction (FBP, least squares, Tikhonov regularization). Key user groups for the simulator include medical physics, engineering, and radiographer students.
+## Features
+
+The CTlab offers its user the opportunity to create the desired X-ray spectrum, to adjust CT imaging parameters (image volume, scan angles, detector element size and detector width, noise, algorithm/geometry specific parameters), to select specific scan geometry, to observe projection data from selected imaging target with polychromatic x-ray spectrum, and to select the specific algorithm for image reconstruction (FBP, least squares, Tikhonov regularization). 
 
 # Versions
 
-- Windows version
-- Mac version
+- Windows (version 1.4)
+- Mac (version 1.0)
 
 Since the use of Astra toolbox is not possible on Mac computers, a slightly separate version of the program has been developed for this purpose. The Mac version does not support iterative reconstruction algorithms or fanflat beam geometry in X-ray projection detection.
+
+## Key User Groups
+
+Key user groups for the simulator include medical physics, engineering, and radiographer students.
 
 # Dependencies
 
@@ -20,7 +26,7 @@ Since the use of Astra toolbox is not possible on Mac computers, a slightly sepa
 - [Astra Toolbox](https://www.astra-toolbox.com/downloads/index.html) (Windows version)
 - [Spektr 3.0](https://github.com/I-STAR/SPEKTR)
 
-CTlab uses two external open source Matlab toolkits. Spektr 3.0 code is used to create a polychromatic X-ray spectrum for simulations and Astra toolbox is used to calculate reconstructions from polychromatic projection data (Not in the Mac version). The user must download both of the aforementioned Toolboxes and place them in Matlab's path in order for CTlab to work correctly. 
+CTlab uses two external open source Matlab toolkits. Spektr 3.0 is used to create a polychromatic X-ray spectrum for simulations and Astra toolbox to calculate reconstructions from polychromatic projection data (Not in the Mac version). The user must download both of the aforementioned Toolboxes and place them in Matlab's path in order for CTlab to work correctly. 
 
 
 ![CT_lab_fig](https://user-images.githubusercontent.com/110446843/183819505-52c6244f-7684-43b9-95d0-7feff60b0779.png)
@@ -37,4 +43,4 @@ Since CTlab is being widely distributed for the first time, it may contain unfor
 
 ## Future version
 
-The next version will include a new Imaging target and a tool for technical image quality analysis.
+The future version will include a new imaging target and a technical image quality analysis tool.
