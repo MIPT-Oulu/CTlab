@@ -41,6 +41,18 @@ The main “Console window” of the CTlab behaves roughly analogous to a clinic
 
 ![CT_lab_fig](https://user-images.githubusercontent.com/110446843/183819505-52c6244f-7684-43b9-95d0-7feff60b0779.png)
 
+<!-- ## Workflow of Simulation
+
+### Starting simulation
+
+The virtual object for simulations must be loaded before actual simulation can be performed. By clicking the “Load phantom” button in the “START SIMULATION” panel, the Shepp-Logan phantom will appear in the panel’s image window. The phantom consists of bone, air, water, and iodine.
+
+### X-ray Spectrum
+
+The X-ray spectrum which is utilized in the simulation can be created by clicking the "Generate spectrum" button. The Spectrum tool will then appear on the screen where user can create the desired X-ray spectrum. First, the user must set the X-ray tube settings (kV, exposure, filtration). These parameters allow user to influence the shape of the simulated spectrum. After setting the parameters by pressing the "Generate Spectrum" button, the polychromatic X-ray spectrum will then appear in the figure of the Spectrum tool. The x-axis of the spectrum indicates the energy range of the detected X-ray photons in kiloelectronvolts (keV) and the y-axis the number of obtained X-ray photons per exposure (mAs). spectrum can be also saved by pressing the "Save" button of the Spectrum tool. -->
+
+### 
+
 ## Documentation
 
 Further documentation and examples will be made available over time.
