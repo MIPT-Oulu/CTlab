@@ -96,7 +96,12 @@ The software has not been intended or certified as a medical device and, therefo
 
 ## Future version
 
-The future version will include 
+The Windows version 1.5 will include 
+
+- a new imaging target 
+- a technical image quality analysis tool
+
+The Mac version 1.1 will include
 
 - a new imaging target 
 - a technical image quality analysis tool
