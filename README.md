@@ -92,7 +92,7 @@ Thank you!
 
 ## Notice
 
-The software has not been intended or certified as a medical device and, therefore, must not be used to guide any diagnostic or treatment decisions
+The software has not been intended or certified as a medical device and, therefore, must not be used to guide any diagnostic or treatment decisions.
 
 ## Future version
 
