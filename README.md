@@ -84,12 +84,15 @@ Calculating the polychromatic reconstruction with FBP algorithm releases the “
 Further documentation and examples will be made available over time.
 
 
-## Noteworthy
+## Issues
 
 Since CTlab is being widely distributed for the first time, it may contain unforeseen bugs. If you wish, you can report these to the Issues channel. 
 
 Thank you!
 
+## Notice
+
+The software has not been intended or certified as a medical device and, therefore, must not be used to guide any diagnostic or treatment decisions
 
 ## Future version
 
