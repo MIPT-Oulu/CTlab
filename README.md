@@ -107,6 +107,7 @@ The Windows version 1.5 will include
 
 The Mac version 1.1 will include
 
+- fanbeam geometry
 - new imaging target 
 - technical image quality analysis tool
 
