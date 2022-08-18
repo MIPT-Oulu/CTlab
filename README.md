@@ -41,6 +41,10 @@ The main “Console window” of the CTlab behaves roughly analogous to a clinic
 
 ![CT_lab_fig](https://user-images.githubusercontent.com/110446843/183819505-52c6244f-7684-43b9-95d0-7feff60b0779.png)
 
+## Demonstration
+
+A short demonstration of CTlab's operation can be viewed on [YouTube](https://www.youtube.com/watch?v=OAGBWjJwCrM)
+
 <!-- ## Workflow of Simulation
 
 ### Starting simulation
