@@ -34,6 +34,12 @@ Key user groups for the simulator include medical physics, engineering, and radi
 
 CTlab uses two external open source Matlab toolkits. Spektr 3.0 is used to create a polychromatic X-ray spectrum for simulations and Astra toolbox to calculate reconstructions from polychromatic projection data (Not in the Mac version). The user must download both of the aforementioned Toolboxes and place them in Matlab's path in order for CTlab to work correctly. 
 
+## Installation
+
+
+https://user-images.githubusercontent.com/110446843/190123038-d3f37714-aa86-46d4-9fc1-92d42ed38f1a.mp4
+
+
 ## Platform Overview
 
 The main “Console window” of the CTlab behaves roughly analogous to a clinical CT scanner for graphically adjusting imaging setup and conducting simulation control, providing immediate feedback to the corresponding information panels during the simulation process, and visualizing reconstructed polychromatic and spectral images in the reconstruction windows.
