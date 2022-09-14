@@ -31,6 +31,7 @@ Key user groups for the simulator include medical physics, engineering, and radi
 - [MATLAB R2020b](https://se.mathworks.com/products/new_products/release2020b.html)
 - [Astra Toolbox](https://www.astra-toolbox.com/downloads/index.html) (Windows version)
 - [Spektr 3.0](https://github.com/I-STAR/SPEKTR)
+- [Spot](https://github.com/mpf/spot)
 
 CTlab uses two external open source Matlab toolkits. Spektr 3.0 is used to create a polychromatic X-ray spectrum for simulations and Astra toolbox to calculate reconstructions from polychromatic projection data (Not in the Mac version). The user must download both of the aforementioned Toolboxes and place them in Matlab's path in order for CTlab to work correctly. 
 
