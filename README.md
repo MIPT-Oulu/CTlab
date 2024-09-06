@@ -107,14 +107,14 @@ The software has not been intended or certified as a medical device and, therefo
 
 ## Future version
 
-The Windows version 1.5 will include 
+Version 2.0 will include 3d imaging and several new features:
 
-- new imaging target 
-- technical image quality analysis tool
+- Virtual phantom creation from CT images
+- Spectral CT simulations 
+- Server connection possibility - Save or load data from image server (in progress)
+- Multi-reconstruction imaging 
+- PDF report of simulation (in progress)
+- MVC (in progress)
+![image](https://github.com/user-attachments/assets/14b4eab2-2715-4712-aa40-d4ce4982c044)
 
-The Mac version 1.1 will include
-
-- fanbeam geometry
-- new imaging target 
-- technical image quality analysis tool
 
