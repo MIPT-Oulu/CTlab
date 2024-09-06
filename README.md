@@ -112,6 +112,8 @@ Version 2.0 will include 3d imaging and several new features:
 - Multi-reconstruction imaging 
 - PDF report of simulation (in progress)
 - MVC (in progress)
-![image](https://github.com/user-attachments/assets/14b4eab2-2715-4712-aa40-d4ce4982c044)
+
+
+
 
 
