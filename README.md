@@ -4,11 +4,11 @@
 # A Numerical Computed Tomography Simulator
 
 ## Overview
-The CTlab is virtually implemented medical imaging device, which can be widely used in computed tomography training for all professionals who use radiation in their work. The simulator provides fast, comprehensive, and efficient solutions for numerical CT simulations with low hardware requirements. The simulator has been developed to introduce the basic operations and workflow behind the CT imaging modality and to illustrate how the polychromatic x-ray spectrum, various imaging parameters, scan geometry and CT reconstruction algorithm affect the quality of the detected CT images.
+CTlab is virtually implemented medical imaging device, which can be widely used in computed tomography training for all professionals who use radiation in their work. Simulator provides fast, comprehensive, and efficient solutions for numerical CT simulations with low hardware requirements. Simulator has been developed to introduce the basic operations and workflow behind the CT imaging modality and to illustrate how the polychromatic x-ray spectrum, various imaging parameters, scan geometry and CT reconstruction algorithm affect the quality of the detected CT images.
 
 ## Features
 
-The CTlab offers its users an opportunity in CT simulations
+CTlab offers its users an opportunity in CT simulations
 
 - [x] To create the desired X-ray spectrum 
 - [x] To adjust CT imaging parameters (image volume, scan angles, detector element size and detector width, noise, algorithm/geometry specific parameters) 
@@ -17,10 +17,7 @@ The CTlab offers its users an opportunity in CT simulations
 
 ## Versions
 
-- Windows (version 1.4)
-- Mac (version 1.0)
-
-Since the use of Astra toolbox is not possible on Mac computers, a slightly separate version of the program has been developed for this purpose. The Mac version does not support iterative reconstruction algorithms or fanflat beam geometry in X-ray projection detection.
+- Windows
 
 ## Key User Groups
 
@@ -29,7 +26,7 @@ Key user groups for the simulator include medical physics, engineering, and radi
 ## Dependencies
 
 - [MATLAB R2020b](https://se.mathworks.com/products/new_products/release2020b.html)
-- [Astra Toolbox](https://www.astra-toolbox.com/downloads/index.html) (Windows version)
+- [Astra Toolbox](https://www.astra-toolbox.com/downloads/index.html)
 - [Spektr 3.0](https://github.com/I-STAR/SPEKTR)
 - [Spot](https://github.com/mpf/spot)
 
