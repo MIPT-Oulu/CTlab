@@ -25,7 +25,7 @@ Key user groups for the simulator include medical physics, engineering, and radi
 
 ## Dependencies
 
-- [MATLAB R2020b](https://se.mathworks.com/products/new_products/release2020b.html)
+- [MATLAB R2020b](https://se.mathworks.com/products/new_products/release2020b.html) or newer
 - [Astra Toolbox](https://www.astra-toolbox.com/downloads/index.html)
 - [Spektr 3.0](https://github.com/I-STAR/SPEKTR)
 - [Spot](https://github.com/mpf/spot)
